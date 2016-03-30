@@ -1,3 +1,4 @@
 alias sys_update='sudo apt-get update && sudo apt-get upgrade'
 alias sys_upgrade='sudo apt-get update && sudo apt-get dist-upgrade'
 alias ll='ls  al'
+alias q='exit'
